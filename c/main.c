@@ -6,6 +6,6 @@ int A[3]; // int array
 char s[] = "Hi!"; // string
 
 int main() {
-	printf("%d", i);
-	return 0;
+	printf("%d\n", i); // type double
+	return 0; // main method expects an int to return, not really neccessary for main
 }
