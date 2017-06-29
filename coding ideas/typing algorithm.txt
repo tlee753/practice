@@ -1,0 +1,3 @@
+new character takes 1 second, duplication takes 5 seconds, paste removes all
+
+algorithm for pasting versus typing, probably could check exponential equations and graph it, maybe want to check total at a high value like 1000 
