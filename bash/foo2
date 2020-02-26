@@ -1,0 +1,7 @@
+echo 0
+echo $0
+echo zsh
+DIR=$(dirname "$(readlink -f "$0")")
+echo $DIR
+echo bash-source
+echo $BASH_SOURCE
